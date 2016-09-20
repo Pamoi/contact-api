@@ -1,0 +1,11 @@
+[server]
+
+serverName = mydomain.com:6789
+privateKeyPath = /path/to/key
+publicKeyPath = /path/to/cert
+
+[mail]
+
+username = username@gmail.com
+password = pass
+Recipient = recipient@somedomain.com
