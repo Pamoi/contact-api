@@ -1,6 +1,6 @@
 [server]
 
-serverName = mydomain.com:6789
+serverName = :6789
 privateKeyPath = /path/to/key
 publicKeyPath = /path/to/cert
 
